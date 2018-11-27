@@ -1,2 +1,2 @@
 # DS101_Project
-For storing shared data
+For storing shared data and files
